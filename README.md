@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=21&pause=1000&color=58A6FF&width=400&center=false&vCenter=true&lines=Fullstack+Developer" alt="Typing SVG" />
 
-Mahasiswa S1 Teknologi Informasi di Universitas Siber Asia (Semester 1) - Tangerang, Banten. Suka belajar hal baru dan bangun produk yang beneran kepake.
+Mahasiswa S1 Teknologi Informasi di Universitas Siber Asia Semester 1 - Tangerang, Banten. Suka belajar hal baru dan bangun produk yang beneran kepake.
 
 > Kadang koding, kadang kidding.
 
