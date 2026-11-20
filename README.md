@@ -53,7 +53,7 @@ Mahasiswa S1 Teknologi Informasi di Universitas Siber Asia Semester 1 - Tangeran
 
 ### 🚀 Featured Project
 
-<a href="https://lulusats.my.id">
+<a href="https://lulusats.my.id" target="_blank">
   <img src="https://img.shields.io/badge/LulusATS.my.id-Membuat_CV_ATS_dengan_Praktis-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
